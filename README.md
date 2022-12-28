@@ -1,13 +1,14 @@
 ## Hi there, I'm ABDELAZIZ ELHAYYANY - aka [elhayyny] 👋 
 
 <p align="center">
-  <a href="https://github.com/elhayynay">
+  <a href="https://github.com/elhayyany">
     <img src="https://img.shields.io/github/followers/elhayyny?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://www.linkedin.com/in/abdelaziz-el-hayyany-b1b8ba1b2">
     <img src="https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" />
   </a>
 </p>
+
 
 ### I'm a self-taught passionate software engineer from Morocco 🇲🇦
 
