@@ -13,13 +13,13 @@
 
 **About me**
 
-- 👨🏽‍💻 I’m [1337 School](https://www.1337.ma/en/) student
+- 👨🏽‍💻 I’m [1337 School](https://www.1337.ma/en/) student.
 
 - 📈 I have worked with C language since 2021.
 
 - ❤️ I love building greas projects with C++ .
 
-- ❤️ I am interesting in AI & ML
+- ❤️ I am interesting in AI & ML.
 
 - 😊 Ask me about anything, I would be happy to help.
 
