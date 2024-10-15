@@ -18,12 +18,10 @@
 
 - 📈 I have worked with C language since 2021.
 
-- ❤️ I love building greas projects with C++ .
+- ❤️ I am in love with C++ .
 
-- ❤️ I am interesting in AI & ML.
-
-- 😊 Ask me about anything, I would be happy to help.
-
+- ❤️ Interesting in AI & ML.
+- Working at odoo ❤️ as a software developer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elhayyany&count_private=true&show_icons=true&theme=radical)](https://github.com/elhayyany/github-readme-stats))
 
